@@ -134,3 +134,6 @@ To add resources:
 ## Libraries
 - [sklearn.decomposition.PCA](https://scikit-learn.org/0.15/modules/generated/sklearn.decomposition.PCA.html)
 
+
+## Lecturers
+- [MIT](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
